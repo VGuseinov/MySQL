@@ -2,7 +2,7 @@ use testData;
 
 -- добавление данных в таблицу
 
--- insert into users(age, bday, name) values (12, '2009-09-30 15:12:56', "Alex"), (12, '1963-02-19 15:12:56', "Bond");
+insert into users(age, bday, name) values (12, '2009-09-30 15:12:56', "Alex"), (12, '1963-02-19 15:12:56', "Bond");
 
 -- обновление данных в таблице
 
